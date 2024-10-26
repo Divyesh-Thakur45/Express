@@ -1,0 +1,46 @@
+{
+    "product": [
+        {
+            "name": "Product 1",
+            "price": 100,
+            "id": 1
+        },
+        {
+            "name": "Product 2",
+            "price": 200,
+            "id": 2
+        },
+        {
+            "name": "Product 3",
+            "price": 300,
+            "id": 3
+        },
+        {
+            "name": "Product 4",
+            "price": 400,
+            "id": 4
+        }
+    ],
+    "medicine": [
+        {
+            "name": "Medicine 1",
+            "price": 50,
+            "id": 1
+        },
+        {
+            "name": "Medicine 2",
+            "price": 100,
+            "id": 2
+        },
+        {
+            "name": "Medicine 3",
+            "price": 150,
+            "id": 3
+        },
+        {
+            "name": "Medicine 4",
+            "price": 200,
+            "id": 4
+        }
+    ]
+}
